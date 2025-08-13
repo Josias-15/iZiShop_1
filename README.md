@@ -12,7 +12,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-All components have been downloaded under `@/components/ui`.
+All shadcn/ui components have been downloaded under `@/components/ui`.
 
 ## File Structure
 
@@ -26,7 +26,7 @@ All components have been downloaded under `@/components/ui`.
 
 ## Components
 
-- All components are pre-downloaded and available at `@/components/ui`
+- All shadcn/ui components are pre-downloaded and available at `@/components/ui`
 
 ## Styling
 
