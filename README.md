@@ -1,4 +1,6 @@
-# Shadcn-UI Template Usage Instructions
+![Image](public/cap.png)
+
+# Template Usage Instructions
 
 ## technology stack
 
